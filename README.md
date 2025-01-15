@@ -11,16 +11,14 @@ PassSculptor is a dynamic and interactive password strength checker built using 
   - Inclusion of digits
   - Inclusion of special characters (e.g., !, @, #, etc.)
   - Detection of common passwords
-  - Check for invalid characters (spaces or hyphens)
-  - 
+  - Check for invalid characters (spaces or hyphens) 
   
 - **Password Generator:** Create strong passwords with customizable settings:
   - Password length (default is 8 characters)
   - Option to include special characters and digits
-  - 
 
 - **Interactive UI:** User-friendly and colorful command-line interface with animations and clear feedback.
-- 
+ 
 
 ## Installation
 
