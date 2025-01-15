@@ -23,7 +23,7 @@ PassSculptor is a dynamic and interactive password strength checker built using 
 ## Installation
 
 1. Clone the repository:
-   --> git clone https://github.com/sarvesh270/PassSculptor.git
+   --> git clone https://github.com/Sarv3shxploit/PassSculptor.git
 2. Navigate to the project directory:
 3. Install required dependencies:
    --> pip install -r requirements.txt
